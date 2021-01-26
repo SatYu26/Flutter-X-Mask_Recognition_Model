@@ -15,5 +15,6 @@ https://drive.google.com/drive/folders/1sAMaXPNetpzyNsWw1n5fOR5Rv-mMLglX?usp=sha
 
 
 <p align="center">
-  <img src="https://github.com/SatYu26/Shadow_Remote/blob/main/SS.jpeg?raw=true" width="300" >
+  <img src="https://github.com/SatYu26/Flutter-X-Mask_Recognition_Model/blob/main/Demo/mask.jpeg" width="300" >
+  <img src="https://github.com/SatYu26/Flutter-X-Mask_Recognition_Model/blob/main/Demo/without_mask.jpeg" width="300" >
 </p>
